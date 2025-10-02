@@ -31,3 +31,5 @@ what you are tasked with for this task.
   - ONE closed PR
   - exactly ONE commit author (other than the course team)
   - at least TWO commits by you (e.g., make one commit for each file you complete)This project implements NumberTriangle with retrieve and loadTriangle().
+Extra notes for testing pull request.
+PR check in my own repo.
